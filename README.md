@@ -1,2 +1,2 @@
 # student-demo
-Author - Kanchan Naval
+Author : Kanchan Naval
